@@ -1,6 +1,9 @@
 **About Aerofit**
 Aerofit is a leading brand in the field of fitness equipment. The company provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 
+![images](https://github.com/Nischithahn29/Product-Analytics---Customer-Profiling-for-Fitness-Equipment-Brand/assets/139593702/90249664-624d-4610-8de5-ad33a2e0bd0e)
+
+
 **Business Problem**
 The market research team at the company wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers. The team decides to investigate whether there are differences across the product with respect to customer characteristics.
 
