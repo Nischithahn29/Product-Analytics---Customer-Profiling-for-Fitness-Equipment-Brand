@@ -1,7 +1,7 @@
 **About Aerofit**
 Aerofit is a leading brand in the field of fitness equipment. The company provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 
-          ![images](https://github.com/Nischithahn29/Product-Analytics---Customer-Profiling-for-Fitness-Equipment-Brand/assets/139593702/90249664-624d-4610-8de5-ad33a2e0bd0e)
+          . ![images](https://github.com/Nischithahn29/Product-Analytics---Customer-Profiling-for-Fitness-Equipment-Brand/assets/139593702/90249664-624d-4610-8de5-ad33a2e0bd0e)
 
 
 **Business Problem**
